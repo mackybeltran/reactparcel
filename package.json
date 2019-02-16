@@ -1,11 +1,16 @@
 {
   "name": "bclean",
   "version": "1.0.0",
+  "description": "Website for Bill Cleanton Cleaning Services.",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel index.html/"
+    "build": "parcel index.html/",
+    "start": "parcel index.html/"
+  },
+  "engines": {
+    "node": "10.x"
   },
   "dependencies": {
     "react": "^16.8.2",
