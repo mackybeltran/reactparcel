@@ -1,0 +1,28 @@
+.App {
+  height: 100%;
+  font-family: Helvetica, sans-serif; }
+.Home {
+  display: flex;
+  flex-direction: column; }
+.Header {
+  padding: 16px;
+  background-color: #1abc9c;
+  font-size: 16px;
+  color: white; }
+.Body {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  background-color: #FFCD78;
+  color: white; }
+  .Body ._name {
+    font-size: 64px;
+    padding: 16px; }
+  .Body ._tagline {
+    font-size: 32px;
+    padding: 16px; }
+.Footer {
+  padding: 16px;
+  background-color: black;
+  font-size: 16px;
+  color: white; }

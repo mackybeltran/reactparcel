@@ -1,0 +1,17 @@
+.Body {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background-color:#FFCD78;
+    color: white;
+
+    ._name {
+        font-size: 64px;
+        padding: 16px;
+    }
+
+    ._tagline {
+        font-size:  32px;
+        padding: 16px;
+    }
+}
