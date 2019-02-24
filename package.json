@@ -1,7 +1,7 @@
 {
-  "name": "bclean",
+  "name": "rps",
   "version": "1.0.0",
-  "description": "Website for Bill Cleanton Cleaning Services.",
+  "description": "REACT PARCEL STARTER.",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
